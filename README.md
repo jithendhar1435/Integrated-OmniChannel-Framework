@@ -46,9 +46,5 @@ and Boom , it will be up and running !!!
 **Server:** Node, Express
 
 
-## Support
-
-For support, Kindly message me on [instagram](https://instagram.com/malik_9136)
-
-## 🚀 About Me
-My Name is Sabir Khan and I'm a Undergrad Student of Computer Science From Mumbai. I Make Crazy Projects Frequently, If you like any of my work do give it a star and follow to me.
+## About me
+Im Abhiram Anusuri, an accomplished professional immersed in Python and Java full stack development, proficient in Linux and Oracle SQL. With strong communication and effective team management skills, I excel in integrating advanced technologies to enhance organizational success.
